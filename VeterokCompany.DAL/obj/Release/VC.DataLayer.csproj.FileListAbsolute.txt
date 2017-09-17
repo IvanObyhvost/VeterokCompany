@@ -1,0 +1,11 @@
+C:\Users\Ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Release\DbVeterok.mdf
+C:\Users\Ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Release\DbVeterok_log.ldf
+C:\Users\Ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Release\VeterokCompany.DAL.dll.config
+C:\Users\Ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Release\VeterokCompany.DAL.dll
+C:\Users\Ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Release\VeterokCompany.DAL.pdb
+C:\Users\Ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Release\EntityFramework.dll
+C:\Users\Ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Release\EntityFramework.xml
+C:\Users\Ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\obj\Release\VeterokCompany.DAL.dll
+C:\Users\Ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\obj\Release\VeterokCompany.DAL.pdb

@@ -1,0 +1,23 @@
+c:\users\ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Debug\VeterokCompany.DAL.dll.config
+c:\users\ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Debug\VeterokCompany.DAL.dll
+c:\users\ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Debug\VeterokCompany.DAL.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Debug\EntityFramework.dll
+c:\users\ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Debug\EntityFramework.xml
+c:\users\ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\obj\Debug\VeterokCompany.DAL.dll
+c:\users\ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\obj\Debug\VeterokCompany.DAL.pdb
+C:\Users\Ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Debug\DbVeterok.mdf
+C:\Users\Ivan\documents\visual studio 2013\Projects\VeterokCompany\VeterokCompany.DAL\bin\Debug\DbVeterok_log.ldf
+D:\Переустановка\VeterokCompany\VeterokCompany.DAL\bin\Debug\DbVeterok.mdf
+D:\Переустановка\VeterokCompany\VeterokCompany.DAL\bin\Debug\DbVeterok_log.ldf
+D:\Переустановка\VeterokCompany\VeterokCompany.DAL\bin\Debug\VeterokCompany.DAL.dll.config
+D:\Переустановка\VeterokCompany\VeterokCompany.DAL\bin\Debug\VeterokCompany.DAL.dll
+D:\Переустановка\VeterokCompany\VeterokCompany.DAL\bin\Debug\VeterokCompany.DAL.pdb
+D:\Переустановка\VeterokCompany\VeterokCompany.DAL\bin\Debug\EntityFramework.dll
+D:\Переустановка\VeterokCompany\VeterokCompany.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Переустановка\VeterokCompany\VeterokCompany.DAL\bin\Debug\EntityFramework.xml
+D:\Переустановка\VeterokCompany\VeterokCompany.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Переустановка\VeterokCompany\VeterokCompany.DAL\obj\Debug\VC.DataLayer.csprojResolveAssemblyReference.cache
+D:\Переустановка\VeterokCompany\VeterokCompany.DAL\obj\Debug\VeterokCompany.DAL.dll
+D:\Переустановка\VeterokCompany\VeterokCompany.DAL\obj\Debug\VeterokCompany.DAL.pdb

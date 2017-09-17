@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeterokCompany", "VeterokCompany\VeterokCompany.csproj", "{2585508B-48A1-4ED4-8C6F-C43F0841FC94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VC.DataLayer", "VeterokCompany.DAL\VC.DataLayer.csproj", "{BE150E49-4206-423B-B4C8-BE604D5D04F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2585508B-48A1-4ED4-8C6F-C43F0841FC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2585508B-48A1-4ED4-8C6F-C43F0841FC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2585508B-48A1-4ED4-8C6F-C43F0841FC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2585508B-48A1-4ED4-8C6F-C43F0841FC94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE150E49-4206-423B-B4C8-BE604D5D04F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE150E49-4206-423B-B4C8-BE604D5D04F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE150E49-4206-423B-B4C8-BE604D5D04F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE150E49-4206-423B-B4C8-BE604D5D04F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
